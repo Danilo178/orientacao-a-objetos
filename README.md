@@ -1,6 +1,7 @@
 # orientacao-a-objetos
 Este repositório contém a atividade prática do Curso "Orientação a Objetos", que faz parte do Basecamp de Javascript que minstrei pela Inovação Digital Um.
-#Criando o repositório
+
+# Criando o projeto
 Crie uma classe , que tem os parâmetros , , e ContaBancariaagencianumerotiposaldo;
 Dentro de , construa o getter e o setter de ContaBancariasaldo;
 Dentro de , crie os métodos e ContaBancariasacardepositar;
